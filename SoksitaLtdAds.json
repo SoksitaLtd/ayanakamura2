@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-1043776732490279/4313553052",
+        "AdMobInterstitial"   : "ca-app-pub-1043776732490279/4282543715",
+        "AdMobNative"         : "ca-app-pub-1043776732490279/1241447400",
+        "AdMobOpenAd"         : "ca-app-pub-1043776732490279/4989120721",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -49,7 +49,7 @@
     ]
   },
   
-  "AppsPromote": [
+ "AppsPromote": [
     {
       "name": "Music Dadju & lyrics Offline",
       "packageName": "com.Anonyme.Dadju.SoksitaLtd",
@@ -213,9 +213,9 @@
       "download": "+1 Million"
     },
     {
-      "name": "Music Taylor swift & Lyrics",
+      "name": "آهنگ های رضا بهرام آفلاین",
       "packageName": "com.Bahram.Reza.SoksitaLtd",
-      "icon": "https://play-lh.googleusercontent.com/fGp5IzsghkAI2B3RmWmtV7t2r78t7IV_wgOk2XGPhRaKoYAIPGkF9o6Tz2LkLK2OgGNJbID4UrGXzgm-IguOaw=w240-h480-rw",
+      "icon": "https://play-lh.googleusercontent.com/cMGznjFEK3PA0RMsrciLD0UW9YUjCLj3L_C6vx4EHLxznloxI2jpiEmMcLIcMjSMODI=w240-h480-rw",
       "download": "+100K"
     },
     {
@@ -270,3 +270,4 @@
   ]
   
 }
+

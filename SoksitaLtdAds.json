@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
-    "status"     : false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+    "status"     : true,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.Nakamura.Aya.SoksitaLtd"
   },
   
   
@@ -20,14 +20,14 @@
       
       "AdInterval"         : 4,
       
-      "NativeAdRow"        : 15,
+      "NativeAdRow"        : 0,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-1043776732490279/4313553052",
-        "AdMobInterstitial"   : "ca-app-pub-1043776732490279/4282543715",
-        "AdMobNative"         : "ca-app-pub-1043776732490279/1241447400",
-        "AdMobOpenAd"         : "ca-app-pub-1043776732490279/4989120721",
+        "AdMobBanner"         : "",
+        "AdMobInterstitial"   : "",
+        "AdMobNative"         : "",
+        "AdMobOpenAd"         : "",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
